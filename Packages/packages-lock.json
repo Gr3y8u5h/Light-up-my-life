@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.microsoft.altspacevr_uploader": {
-      "version": "file:D:/OneDrive/DOCUMENTS/GitHub/com.microsoft.altspacevr_uploader-2.2.19.tgz",
+      "version": "file:C:/Users/jim/OneDrive/DOCUMENTS/GitHub/com.microsoft.altspacevr_uploader-2.2.19.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
